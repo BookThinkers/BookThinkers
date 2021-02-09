@@ -1,9 +1,27 @@
 ## BookThinkers Life-Changing Books Mobile + Web App
 
 
+# Goals
+### Overall
+Deliver a functional web-app and native iOS App with three core functions for book lovers.
+1. Maintain a personal bookshelf
+2. Socialize with other booklovers
+3. three
+
+### Sprint 1
+Set up a functional backend and database.
+
+
+- Approach
+- Tools / APIs / Frameworks
+- Overall description of experience (step-by-step explanation of a user’s experience, example
+scenario).
+- Team members
+- Send link to instructor before midnight
 
 
 
+# Boiler Plate
 You can use the [editor on GitHub](https://github.com/BookThinkers/BookThinkers/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
