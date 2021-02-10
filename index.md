@@ -8,7 +8,7 @@ Deliver a functional web-app and native iOS App with three core functions for bo
 2. Socialize with other booklovers
 3. three
 
-![BookThinkers.png]
+![BookThinkers.jpg]
 
 ### Sprint 1
 Set up a functional backend and database.
