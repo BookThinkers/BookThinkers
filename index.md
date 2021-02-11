@@ -33,7 +33,7 @@ Additionally, BookThinkers has conducted a few surveys of their audience and the
 
 # Our Approach
 ## Backend
-We are implementing the backend with a combination of different services provided by Firebase. This primarily includes their Realtime Database and Hosting solutions.
+We are implementing the backend with a combination of different services provided by Firebase. This primarily includes their Realtime Database and Hosting solutions. For the books database, we will be using Amazon's Books API.
 
 ## iOS App
 The native iOS App will be built with the Swift programming language. In addition, we will use a few frameworks including Firebase SDK, UIKit, and SwiftUI. For dependency management, we will use Cocoapods.
