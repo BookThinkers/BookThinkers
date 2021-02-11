@@ -3,7 +3,7 @@
 # Project Title
 BookThinkers Life-Changing Books - Book Lovers Community Application
 
-## Background
+# Background
 ## Who is BookThinkers?
 BookThinkers is an education-media company that cultivates a large community of book enthusiasts and authors. BookThinkers help authors promote their books by interviewing them on the BookThinkers podcast. BookThinkers helps expose avid-readers to great new books through the BookThinkers Instagram (111,000 followers). 
 
@@ -23,9 +23,6 @@ Implement the necessary functions for administration of the application.
 2. Set up our hosting services.
 3. Familiarize ourselves with the tools we will be working with. 
 4. Set up iOS views for authentication (sign in with Google or manually create an account via email)
-
-### Sprint 1 Goals
-1. Build the backend (database and APIs)
 
 ## Why This Project?
 The BookThinkers team receives extremely frequent and repetitive inbound requests through their Instagram account asking for the solution we hope to provide. Many users want ideas for how to retain their learnings from the books they read. Many also indicate a desire to connect with other book lovers as they don't have real world friends who share their interest in books. 
