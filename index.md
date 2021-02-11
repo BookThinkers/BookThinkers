@@ -1,4 +1,4 @@
-![](BookThinkers.jpg?raw=true)
+![](BookThinkers.png?raw=true)
 
 # Project Title
 BookThinkers Life-Changing Books - Book Lovers Community Application
@@ -9,7 +9,7 @@ BookThinkers is an education-media company that cultivates a large community of 
 
 ## What Are We Building For Them? (Project Goals)
 ### Overall (By The End of The Semester)
-Deliver an intuitive web-app and native iOS App equipped to serve three core functions for book lovers.
+Deliver an intuitive web-app and native iOS App equipped to serve four core functions for book lovers.
 1. Maintain a personal bookshelf. Track the books you've read and enter reviews and notes about key learnings from the book.
 2. Socialize with other booklovers. Add friends. Follow book influencers. Follow their activity.
 3. Create a reminder based retention system to periodicially notify you to reread your book notes to assist with long-term retention.
@@ -23,7 +23,7 @@ Implement the necessary functions for administration of the application.
 1. Model our data and build an interactive database for the web and mobile application.
 2. Set up our hosting services.
 3. Familiarize ourselves with the tools we will be working with. 
-4. Set up iOS views for authentication (sign in with Google or manually create an account via email)
+4. Set up views (Web & Mobile) for authentication (sign in with Google or manually create an account via email)
 
 ## Why This Project?
 The BookThinkers team receives extremely frequent and repetitive inbound requests through their Instagram account asking for the solution we hope to provide. Many users want ideas for how to retain their learnings from the books they read. Many also indicate a desire to connect with other book lovers as they don't have real world friends who share their interest in books. 
