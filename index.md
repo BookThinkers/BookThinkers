@@ -11,8 +11,8 @@ BookThinkers is an education-media company that cultivates a large community of 
 ## What Are We Building For Them? (Project Goals)
 ### Overall (By The End of The Semester)
 Deliver an intuitive web-app and native iOS App equipped to serve four core functions for book lovers.
-1. Maintain a personal bookshelf. Track the books you've read and enter reviews and notes about key learnings from the book.
-2. Socialize with other booklovers. Add friends. Follow book influencers. Follow their activity.
+1. Maintain a personal bookshelf. Track the books you've read and enter reviews and notes about key learnings from each book.
+2. Socialize with other booklovers. Add friends. Follow book influencers and read their activity.
 3. Create a reminder based retention system to periodicially notify you to reread your book notes to assist with long-term retention.
 4. Gamify the app with badges.
 
