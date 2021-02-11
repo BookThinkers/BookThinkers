@@ -17,14 +17,14 @@ Deliver an intuitive web-app and native iOS App equipped to serve four core func
 4. Gamify the app with badges.
 
 Implement the necessary functions for administration of the application. 
-1. Create an administrative dashboard for the BookThinkers team to view and manage user data and basic analytics
+1. Create an administrative dashboard for the BookThinkers team to view and manage user data and basic analytics.
 2. Implement a payment solution to facilitate premium subscriptions to the application.
 
 ### Sprint 1 (Build the backend)
 1. Model our data and build an interactive database for the web and mobile application.
 2. Set up our hosting services.
 3. Familiarize ourselves with the tools we will be working with. 
-4. Set up views (Web & Mobile) for authentication (sign in with Google or manually create an account via email)
+4. Set up views (Web & Mobile) for authentication (sign in with Google or manually create an account via email).
 
 ## Why This Project?
 The BookThinkers team receives extremely frequent and repetitive inbound requests through their Instagram account asking for the solution we hope to provide. Many users want ideas for how to retain their learnings from the books they read. Many also indicate a desire to connect with other book lovers as they don't have real world friends who share their interest in books. 
