@@ -13,6 +13,7 @@ Deliver an intuitive web-app and native iOS App equipped to serve three core fun
 1. Maintain a personal bookshelf. Track the books you've read and enter reviews and notes about key learnings from the book.
 2. Socialize with other booklovers. Add friends. Follow book influencers. Follow their activity.
 3. Create a reminder based retention system to periodicially notify you to reread your book notes to assist with long-term retention.
+4. Gamify the app with badges.
 
 Implement the necessary functions for administration of the application. 
 1. Create an administrative dashboard for the BookThinkers team to view and manage user data and basic analytics
@@ -43,6 +44,17 @@ The website will be built using HTML, CSS, SCSS, Node.js, Angular.js, and Typesc
 # User Experiences
 As briefly described in the goals section, this app provides three main benefits to users.
 
+### Improving Learning Outcomes (Goals 1 and 3)
+BookThinkers aims to provide an app that allows readers to consolidate their biggest takeaways from the physical, digital and audiobooks that they are reading. For example, a BookThinkers Instagram follower may join the app/website using their gmail account. They may have finished reading _Thinking Fast and Slow by Daniel Kahneman._ This book is incredibly densely packed with powerful ideas. Using our app, the user would log that they read the book, add it to their bookshelf, and leave a review. In addition, they would be prompted to leave notes on what they learned from reading the book. Finally, the user would be asked how often they want to be reminded to revisit those notes. Based on their response, the app will reintroduce notes at specific time intervals to maximize retention using notifications. There will be different “pathways" depending on the frequency that each reader is open to. This spaced repetition technique is used by the world's most effective learners to help facilitate the process of learning.
+
+### Creating A Social Community (Goal 2)
+There will be a social activity feed where users can see what their friends (other users of the app) are reading and “book threads” where you can chat with other users about each book. This will be the homescreen for logged in users. The feed will incude updates from BookThinkers team (such as new podcast episodes), and reviews from the users that the current user is following or friends with.
+
+### Gamification (Goal 4)
+The users are able to view the badges that they have earned and that are available to earn by completing a series of challenges. Some badges will be earned by socializing (having 10 friends for example), others will be triggered by finishing onboarding steps (logging your first book for example), and completing prescribed reading pathways (reading all the books by a specific author for example). Users will be able to see what badges are available, what it takes to achieve them, and the badges they have earned. 
+
+### Administration Functions
+The BookThinkers staff will be able to log into a simple website that shows them analytics and provides control of the database. This can be used for granting users free access to premium memberships, moderation and removing problematic (vulgar for example) content and users, and creating the requirements for book based badges. 
 
 
 # Team Members
