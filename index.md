@@ -1,5 +1,5 @@
 ![](BookThinkers.png?raw=true)
-<hr></hr>
+</hr>
 
 # Project Title
 BookThinkers Life-Changing Books - Book Lovers Community Application
