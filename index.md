@@ -33,7 +33,7 @@ Additionally, BookThinkers has conducted a few surveys of their audience and the
 
 # Our Approach
 ## Backend
-We are implementing the backend with a combination of different services provided by Firebase. This primarily includes their Realtime Database and Hosting solutions. For the books database, we will be using Amazon's Books API.
+We are implementing the backend with a combination of different services provided by Firebase. This primarily includes their Realtime Database and Hosting solutions. For the books database, we will be using either Amazon's or Google's Book API.
 
 ## iOS App
 The native iOS App will be built with the Swift programming language. In addition, we will use a few frameworks including Firebase SDK, UIKit, and SwiftUI. For dependency management, we will use Cocoapods.
@@ -42,7 +42,7 @@ The native iOS App will be built with the Swift programming language. In additio
 The website will be built using HTML, CSS, SCSS, Node.js, Angular.js, and Typescript.
 
 # User Experiences
-As briefly described in the goals section, this app provides three main benefits to users.
+As briefly described in the goals section, this app provides four main benefits to users.
 
 ### Improving Learning Outcomes (Goals 1 and 3)
 BookThinkers aims to provide an app that allows readers to consolidate their biggest takeaways from the physical, digital and audiobooks that they are reading. For example, a BookThinkers Instagram follower may join the app/website using their gmail account. They may have finished reading _Thinking Fast and Slow by Daniel Kahneman._ This book is incredibly densely packed with powerful ideas. Using our app, the user would log that they read the book, add it to their bookshelf, and leave a review. In addition, they would be prompted to leave notes on what they learned from reading the book. Finally, the user would be asked how often they want to be reminded to revisit those notes. Based on their response, the app will reintroduce notes at specific time intervals to maximize retention using notifications. There will be different “pathways" depending on the frequency that each reader is open to. This spaced repetition technique is used by the world's most effective learners to help facilitate the process of learning.
@@ -55,7 +55,6 @@ The users are able to view the badges that they have earned and that are availab
 
 ### Administration Functions
 The BookThinkers staff will be able to log into a simple website that shows them analytics and provides control of the database. This can be used for granting users free access to premium memberships, moderation and removing problematic (vulgar for example) content and users, and creating the requirements for book based badges. 
-
 
 # Team Members
 - Preston Evans
