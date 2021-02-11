@@ -6,7 +6,7 @@ BookThinkers Life-Changing Books - Book Lovers Community Application
 
 # Background
 ## Who is BookThinkers?
-BookThinkers is an education-media company that cultivates a large community of book enthusiasts and authors. BookThinkers help authors promote their books by interviewing them on the BookThinkers podcast. BookThinkers helps expose avid-readers to great new books through the BookThinkers Instagram (111,000 followers). You can read more about them here[here](https://www.bookthinkers.com/). 
+BookThinkers is an education-media company that cultivates a large community of book enthusiasts and authors. BookThinkers help authors promote their books by interviewing them on the BookThinkers podcast. BookThinkers helps expose avid-readers to great new books through the BookThinkers Instagram (111,000 followers). You can read more about them [here](https://www.bookthinkers.com/). 
 
 ## What Are We Building For Them? (Project Goals)
 ### Overall (By The End of The Semester)
