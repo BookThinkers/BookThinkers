@@ -19,7 +19,7 @@ BookThinkers Life-Changing Books - Book Lovers Community Application
 BookThinkers is an education-media company that cultivates a large community of book enthusiasts and authors. BookThinkers help authors promote their books by interviewing them on the BookThinkers podcast. BookThinkers helps expose avid-readers to great new books through the BookThinkers Instagram (111,000 followers). You can read more about them [here](https://www.bookthinkers.com/). 
 
 # Project Goals
-## What Are We Building For Them?
+## What Did We Aim To Build For Them?
 ### Overall
 Deliver an intuitive web-app and native iOS App equipped to serve four core functions for book lovers.
 1. Maintain a personal bookshelf. Track the books you've read and enter reviews and notes about key learnings from each book.
