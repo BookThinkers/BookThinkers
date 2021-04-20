@@ -69,7 +69,7 @@ We implemented the backend with Firebase's Realtime Database and Hosting solutio
 ## iOS App
 The native iOS App was built with the Swift programming language. In addition, we used a few frameworks including Firebase SDK, UIKit, and SwiftUI. For dependency management, we used Cocoapods.
 
-## Web Application and Company Administrative Dashboard
+## Web Application
 The website was built using HTML, CSS, SCSS, Node.js, Angular.js, and Typescript.
 
 ## Admin Panel
