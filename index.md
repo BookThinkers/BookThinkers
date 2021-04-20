@@ -1,6 +1,16 @@
 ![](BookThinkers.png?raw=true)
 <hr>
 
+# Contents
+1. Project Title
+2. Project Goals
+3. Approach
+4. Tools/ APIs/ Frameworks
+5. Overall description of experience
+6. Team Members
+7. Video
+8. Repo Links
+
 # Project Title
 BookThinkers Life-Changing Books - Book Lovers Community Application
 
