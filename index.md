@@ -22,9 +22,9 @@ BookThinkers is an education-media company that cultivates a large community of 
 ## What Did We Aim To Build?
 ### Overall
 Deliver an intuitive web-app and native iOS App equipped to serve four core functions for book lovers.
-1. Maintain a personal bookshelf. Track the books you've read and enter reviews and notes about key learnings from each book.
-2. Socialize with other booklovers. Add friends. Follow book influencers and read their activity.
-3. Create a reminder based retention system to periodicially notify you to reread your book notes to assist with long-term retention.
+1. Maintain a personal bookshelf. Track the books you've read and enter notes about key learnings from each book.
+2. Socialize with other booklovers. Add friends. Follow book lovers and read their activity.
+3. Create a reminder based retention system to periodicially notify you to reread your book notes to assist with long-term memory.
 4. Gamify the app with badges.
 
 Implement the necessary functions for administration of the application. 
@@ -60,7 +60,7 @@ Additionally, BookThinkers has conducted a few surveys of their audience and the
 4. Add additional sign-in authorization options (Web and Mobile)
 5. Add payment integration with Stripe (Web and Mobile)
 6. Add BookThinkers podcast to activity feed (Web and Mobile)
-7. Finish up basic Admin Panel features
+7. Finish necessary Admin Panel features (User and Badge management)
 
 # Tools/ APIs/ Frameworks
 ## Backend
